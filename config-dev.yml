@@ -1,2 +1,4 @@
-This is dev config file. Version 1.
-This is dev config file. Version 2.
+#This is dev config file. Version 1.
+#This is dev config file. Version 2.
+config:
+  info: "dev version 1"

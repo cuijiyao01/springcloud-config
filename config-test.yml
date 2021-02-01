@@ -1,2 +1,4 @@
-This is test config file. Version 1.
-This is test config file. Version 2.
+#This is test config file. Version 1.
+#This is test config file. Version 2.
+config:
+  info: "test version 1"
